@@ -10,7 +10,7 @@ To use in Node.js project, include the following dependency:
 ```
 {
   "dependencies": {
-    "google-protobuf": "evo-bots/google-protobuf.js"
+    "google-protobuf": "robotalks/google-protobuf.js"
   }
 }
 ```
